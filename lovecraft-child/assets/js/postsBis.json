@@ -1,0 +1,532 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+    "geometry": {
+      "type": "Point",
+      "coordinates": [13.476152602141276, 52.42226773456145]
+    },
+    "type": "Feature",
+    "properties": {
+      "postid": "977",
+      "title": "26 Nur einen Springbrunnen",
+      "url": "http://readingbahnhofzoo.local/26-nur-einen-springbrunnen/",
+      "lat": "52.42226773456145",
+      "lng": "13.476152602141276",
+      "de_cf_page_num": "26",
+      "de_cf_text": "Nur einen Springbrunnen mitten auf unserem Betonplatz. Da planschten und spritzten wir manchmal. War natürlich verboten, und wir wurden auch immer schnell weggejagt.",
+      "de_cf_keyword": "Springbrunnen",
+      "en_cf_page_num": "23",
+      "en_cf_text": "Only a measly fountain in the middle of the concrete square in front of our building's entrance. You weren't allowed to play in it, but we sometimes splashed around in its basin and squirted water at each other for a minute before we were chased away again.",
+      "en_cf_keyword": "fountain",
+      "it_cf_page_num": "24",
+      "it_cf_text": "Solo una fontanella nel mezzo dello spiazzo di cemento. Lì qualche volta sguazzavamo e ci spruzzavamo. Naturalmente era vietato e presto fummo cacciati via.",
+      "it_cf_keyword": "fontanella"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [13.474171792160021, 52.423307063426996]
+    },
+    "type": "Feature",
+    "properties": {
+      "postid": "565",
+      "title": "45 Ich schwänzte dann mal",
+      "url": "http://readingbahnhofzoo.local/45-ich-schwanzte-dann-mal/",
+      "lat": "52.423307063426996",
+      "lng": "13.474171792160021",
+      "de_cf_page_num": "45",
+      "de_cf_text": "Ich schwänzte dann mal wieder mit Kessi die Schule. Die Letzten beiden Stunden. Kessi hatte sich mit Milan auf dem U-Bahnhof Wutzkyallee verabredet. Wir lungerten also auf dem U-Bahnhof rum, warteten auf Milan und hielten nach Lehrern Ausschau, die um diese Zeit schon mal auftauchen konnten.",
+      "de_cf_keyword": "U-Bahnhof Wutzkyallee",
+      "en_cf_page_num": "41",
+      "en_cf_text": "Not long after I got drunk at the club, I cut class again with Kessi. Just the last two classes. Kessi had a date with Milan in the Wutzkyallee subway station. As we were hanging out at the subway station waiting for Milan, we also kept an eye out for teachers because sometimes they'd show up around this time, too.",
+      "en_cf_keyword": "Wutzkyallee subway station",
+      "it_cf_page_num": "46",
+      "it_cf_text": "Un giorno marinai di nuovo la scuola insieme a Kessi. Le due ultime ore. Kessi si era data appuntamento con Milan alla fermata della metropolitana di Wutzkyalee. Giravamo quindi attorno alla stazione della metropolitana, aspettavamo Milan e stavamo attente agli insegnanti che a quell’ora potevano spuntare da qualche parte.",
+      "it_cf_keyword": "fermata della metropolitana di Wutzkyalee"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [13.464580305132213, 52.4264314407153]
+    },
+    "type": "Feature",
+    "properties": {
+      "postid": "553",
+      "title": "43 Und sie ging schon",
+      "url": "http://readingbahnhofzoo.local/43-und-sie-ging-schon/",
+      "lat": "52.4264314407153",
+      "lng": "13.464580305132213",
+      "de_cf_page_num": "43",
+      "de_cf_text": "Und sie ging schon in das »Haus der Mitte«. Das war ein Jugendhaus der evangelischen Kirche mit einer Art Diskothek im Keller, dem »Club«. In den Club durfte man erst mit 14 Jahren. Aber Kessi sah man es ja nicht an, daß sie gerade erst 13 war.",
+      "de_cf_keyword": "Haus der Mitte",
+      "en_cf_page_num": "39",
+      "en_cf_text": "And she was already going to the Center House, which was a meeting place for young people, affiliated with the Protestant church. It had a kind of disco club in the basement known simply as “the club.” You had to be at least fourteen to get into the club. But Kessi already looked a lot older than thirteen.",
+      "en_cf_keyword": "Center House",
+      "it_cf_page_num": "44",
+      "it_cf_text": "E già andava nella «Haus der Mitte», che era un circolo per i giovani della chiesa evangelica, con una specie di discoteca nella cantina, il «club». AI club ci si poteva andare se si avevano quattordici anni. Ma di Kessi non si vedeva che ne aveva ancora solo tredici.",
+      "it_cf_keyword": "Haus der Mitte"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [13.472717627397072, 52.42248249591793]
+    },
+    "type": "Feature",
+    "properties": {
+      "postid": "547",
+      "title": "40 Und ich kam gleich",
+      "url": "http://readingbahnhofzoo.local/40-und-ich-kam-gleich/",
+      "lat": "52.42248249591793",
+      "lng": "13.472717627397072",
+      "de_cf_page_num": "40",
+      "de_cf_text": "Und ich kam gleich zwei Wochen zu spät in meine neue Schule. Ich begann also gleich mit Schulschwänzen. Ich kam mir dann sehr fremd vor in der neuen Schule. In der Klasse hatten sich schon Freundschaften und Cliquen gebildet. Ich saß allein. Das Wichtigste aber war: In den zwei Wochen, die ich noch in Spanien gewesen war, hatte man den anderen das System der Gesamtschule erklärt, das ja ziemlich kompliziert ist, wenn man von der Grundschule kommt.",
+      "de_cf_keyword": "neue Schule",
+      "en_cf_page_num": "37",
+      "en_cf_text": "Which meant I started my new school two weeks late. So I began my college prep years as a truant. Coming in late made me feel like an outsider in the new school. New friendships and new cliques had already been established. I sat by myself. But the biggest issue was that, during the first two weeks, while I was in Spain, they'd explained to the newcomers how the comprehensive school system worked—how you can pick classes, how difficulty levels vary, etcetera—and it's actually really complicated, especially when you've just arrived from elementary school.",
+      "en_cf_keyword": "new school",
+      "it_cf_page_num": "41",
+      "it_cf_text": "Ed io entrai esattamente con due settimane di ritardo nella nuova scuola. Dunque, iniziavo proprio con le assenze. Arrivai nella nuova scuola che mi sentivo molto estranea. Nella classe si erano formati amicizie e gruppi. Io ero sola. Mala cosa. più importante era che nelle due settimane nelle quali ero ancora in Spagna agli altri era stato già spiegato il sistema del ginnasio unificato che è abbastanza complicato per chi arriva dalla scuola elementare.",
+      "it_cf_keyword": "nuova scuola"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [13.46865563665531, 52.42130300129406]
+    },
+    "type": "Feature",
+    "properties": {
+      "postid": "538",
+      "title": "34 Sie hatten nämlich einen",
+      "url": "http://readingbahnhofzoo.local/34-sie-hatten-namlich-einen/",
+      "lat": "52.42130300129406",
+      "lng": "13.46865563665531",
+      "de_cf_page_num": "34",
+      "de_cf_text": "Sie hatten nämlich einen extra Reitweg angelegt. Schön mit Sand und wie ein ordentlicher Reitweg auszusehen hat. Kostete sicher eine Menge Geld. Dieser Reitweg führte direkt an den Bahngleisen entlang. Zwischen Zaun und Schienen waren so gerade zwei Pferdebreiten Platz. Da ritt man nun, und die Kohlegüterzüge donnerten vorbei. Es gibt wohl kein Pferd, daß nicht ausrastet, wenn ein paar Meter neben ihm ein Kohlegüterzug vorbeidonnert. Unsere Pferde jedenfalls gingen dann meistens durch. Und man hat nur noch gedacht, hoffentlich läuft der Gaul nicht in den Zug.",
+      "de_cf_keyword": "Dieser Reitweg führte direkt an den Bahngleisen entlang",
+      "en_cf_page_num": "31",
+      "en_cf_text": "They had built a dedicated riding path for that purpose. Exactly the way a proper riding path was supposed to look, with nice sand and everything. Probably cost a lot of money. This riding path ran right alongside the railroad tracks. Between the fence and the railroad tracks, you could just barely fit two horses side by side. That's where we were supposed to ride now, as the freight trains came thundering past. I'd like to see a horse that doesn't bolt when a loaded freight train thunders by a couple of yards away. In any case, our horses always freaked out. And the only thing you could think about at that moment was, I hope my horse doesn't run into the train.",
+      "en_cf_keyword": "This riding path ran right alongside the railroad tracks",
+      "it_cf_page_num": "34",
+      "it_cf_text": "Poi venne vietato di andare a cavallo su tutte le strade e i sentieri e venne costruita appositamente una pista d’equitazione. Bella, col fondo di sabbia, tale e quale come deve essere una pista d’equitazione. Costò sicuramente un sacco di soldi. Questa pista portava direttamente fino a costeggiare i binari della ferrovia. Tra il recinto della pista e le rotaie c’era uno spazio largo giusto per due cavalli. Era lì che si andava ora a cavallo e i treni merci per il trasporto del carbone rimbombavano accanto. Non esiste un cavallo che non va su tutte le furie quando un treno merci gli rimbomba vicino. I nostri cavalli in ogni caso per la maggior parte delle volte si davano alla fuga. E in quel momento si pensava soltanto: speriamo che non vada a finire sotto il treno.",
+      "it_cf_keyword": "Questa pista portava direttamente fino a costeggiare i binari della ferrovia"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [13.469155976060586, 52.41964027004181]
+    },
+    "type": "Feature",
+    "properties": {
+      "postid": "535",
+      "title": "34 Auf dem einen Teil",
+      "url": "http://readingbahnhofzoo.local/34-auf-dem-einen-teil/",
+      "lat": "52.41964027004181",
+      "lng": "13.469155976060586",
+      "de_cf_page_num": "34",
+      "de_cf_text": "Auf dem einen Teil der alten Felder machte sich der Ponyhof breit, auf dem anderen wurden Tennisplätze gebaut. Da gab es dann eigentlich nichts mehr, wo wir hingingen, um aus Gropiusstadt herauszukommen.",
+      "de_cf_keyword": "Tennisplätze",
+      "en_cf_page_num": "30",
+      "en_cf_text": "Piece by piece they were fenced off. A riding stable swallowed up one portion of the old fields, and tennis courts were built on another part. So now there was nothing left for us. That took care of all the places we could go to get away from Gropiusstadt.",
+      "en_cf_keyword": "tennis courts",
+      "it_cf_page_num": "33",
+      "it_cf_text": "Pezzo dopo pezzo i campi sparivano sotto i recinti, su una parte dei vecchi campi si fece spazio il maneggio dei pony, sugli altri vennero costruiti campi da tennis. A quel punto non c’era veramente più un luogo dove noi potevamo andare per uscire fuori da Gropiusstadt.",
+      "it_cf_keyword": "campi da tennis"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [13.468038937362952, 52.42320367400125]
+    },
+    "type": "Feature",
+    "properties": {
+      "postid": "532",
+      "title": "33 Da gab es einen Streifen",
+      "url": "http://readingbahnhofzoo.local/33-da-gab-es-einen-streifen/",
+      "lat": "52.42320367400125",
+      "lng": "13.468038937362952",
+      "de_cf_page_num": "33",
+      "de_cf_text": "Da gab es einen Streifen, den nannten wir Wäldchen oder Niemandsland. Der war kaum 20 Meter breit und wenigstens anderthalb Kilometer lang. Bäume, Büsche, Gras so hoch wie wir, alte Bretter, Wasserlöcher.",
+      "de_cf_keyword": "Niemandsland",
+      "en_cf_page_num": "30",
+      "en_cf_text": "There was an undeveloped strip alongside it that we called the “little woods,” or no-man's-land. It was almost twenty-two yards wide and nearly a mile long. There were trees, bushes, tall grass you could disappear in, old boards, and water holes.",
+      "en_cf_keyword": "no-man's-land",
+      "it_cf_page_num": "33",
+      "it_cf_text": "Lì c’era una striscia di terra che noi chiamavamo boschetto o la terra di nessuno. Non era più larga di venti metri e lunga come minimo un chilometro e mezzo. Alberi, cespugli, erba alta come noi, vecchi pezzi di legno, pozze d’acqua.",
+      "it_cf_keyword": "la terra di nessuno"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [13.466526832990098, 52.42041806520129]
+    },
+    "type": "Feature",
+    "properties": {
+      "postid": "529",
+      "title": "33 Vor allem außerhalb",
+      "url": "http://readingbahnhofzoo.local/33-der-schonste-war-an/",
+      "lat": "52.42041806520129",
+      "lng": "13.466526832990098",
+      "de_cf_page_num": "33",
+      "de_cf_text": "Vor allem außerhalb des Hochhausviertels war vieles noch gar nicht perfekt. In kleinen Ausflügen, die auch wir jüngeren Kinder schon alleine machen konnten, erreichte man richtig paradiesische Spielplätze. Der schönste war an der Mauer, die ja nicht weit von Gropiusstadt ist.",
+      "de_cf_keyword": "Mauer",
+      "en_cf_page_num": "30",
+      "en_cf_text": "Especially right outside the high-rise quarter, there was much that had not yet been perfected. What we considered to be our paradise playgrounds were just a short walk away, so even we younger kids could get to by ourselves. The most beautiful spot was near the Wall, which wasn't far from Gropiusstadt.",
+      "en_cf_keyword": "the Wall",
+      "it_cf_page_num": "32",
+      "it_cf_text": "Soprattutto fuori dalla zona dei casermoni molte cose non erano ancora per niente perfette. Con delle brevi gite che noi ragazzi più piccoli potevamo fare da soli, si arrivava a dei posti per giocare veramente paradisiaci. Il posto più bello era vicino al «muro», che non è molto distante da Gropiusstadt.",
+      "it_cf_keyword": "muro"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [13.477913501780277, 52.422493915420134]
+    },
+    "type": "Feature",
+    "properties": {
+      "postid": "520",
+      "title": "32 Dafür bekamen wir Kinder",
+      "url": "http://readingbahnhofzoo.local/32-dafur-bekamen-wir-kinder/",
+      "lat": "52.422493915420134",
+      "lng": "13.477913501780277",
+      "de_cf_page_num": "32",
+      "de_cf_text": "Dafür bekamen wir Kinder eine richtige Attraktion. Sie bauten einen Rodelberg. Im ersten Winter war das schon toll. Wir konnten uns unsere Pisten vom Berg selber wählen. Wir hatten eine Todesbahn und leichte Strecken.",
+      "de_cf_keyword": "Rodelberg",
+      "en_cf_page_num": "29",
+      "en_cf_text": "Instead of the adventure playground, we kids were given a real attraction. They built a sledding hill. It was awesome the first winter. We could choose our own runs down the hill. We had a “death run” and an easy run.",
+      "en_cf_keyword": "sledding hill",
+      "it_cf_page_num": "31",
+      "it_cf_text": "AI suo posto diedero a noi bambini una vera attrazione. Costruirono un monte con una pista da slitta. Nel primo inverno fu davvero bello. Da soli potevamo sceglierci i percorsi che venivano giù dal monte. Avevamo una pista della morte e percorsi più facili.",
+      "it_cf_keyword": "pista da slitta"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [13.472727635181608, 52.421067144344]
+    },
+    "type": "Feature",
+    "properties": {
+      "postid": "517",
+      "title": "31 Dann haben sie da",
+      "url": "http://readingbahnhofzoo.local/31-dann-haben-sie-da/",
+      "lat": "52.421067144344",
+      "lng": "13.472727635181608",
+      "de_cf_page_num": "31",
+      "de_cf_text": "Dann haben sie da noch eine Schule direkt drangebaut, und die bekam ihren eigenen Spielplatz, den mit Blechrutsche, Klettergerüst und ein paar senkrecht eingegrabenen Holzbohlen, hinter denen man ganz gut pinkeln konnte. Der Schulspielplatz wurde in den Abenteuerspielplatz reingebaut und mit Maschendraht abgeteilt.",
+      "de_cf_keyword": "noch eine Schule",
+      "en_cf_page_num": "28",
+      "en_cf_text": "Then they built a school directly adjacent to it, which got its own playground, one with a slide, monkey bars, and a few short, assorted-sized round logs driven into the ground vertically, which provided good cover if you had to pee. The school playground was built partly on the adventure playground and surrounded with mesh wire fencing.",
+      "en_cf_keyword": "a school",
+      "it_cf_page_num": "31",
+      "it_cf_text": "Poi ci costruirono attaccata anche una scuola che aveva il suo spazio giochi con lo scivolo di lamiera, gli attrezzi per arrampicarsi ed un paio di traverse di legno conficcate verticalmente nel terreno, dietro le quali si poteva pisciare abbastanza bene. Il pezzo di spazio giochi della scuola venne costruito proprio dentro il parco delle avventure e separato da una maglia di rete.",
+      "it_cf_keyword": "anche una scuola"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [13.471977697549674, 52.42016560609944]
+    },
+    "type": "Feature",
+    "properties": {
+      "postid": "514",
+      "title": "31 Bald wurde der Spielplatz",
+      "url": "http://readingbahnhofzoo.local/31-bald-wurde-der-spielplatz/",
+      "lat": "52.42016560609944",
+      "lng": "13.471977697549674",
+      "de_cf_page_num": "31",
+      "de_cf_text": "Bald wurde der Spielplatz wieder geschlossen. Sie sagten uns, sie wollten ihn umbauen, damit wir auch bei schlechtem Wetter spielen könnten. Dann wurden Eisenträger abgeladen, Betonmischmaschinen kamen und ein Bautrupp. Sie bauten einen Betonbunker mit Fenstern. Ernsthaft, so einen richtigen Betonsilo. Keine Blockhütte oder so etwas, sondern einen Betonklotz.",
+      "de_cf_keyword": "Betonsilo",
+      "en_cf_page_num": "28",
+      "en_cf_text": "But soon the playground was closed off again. They said they wanted to rebuild it, so that we could also use it in bad weather. Then iron beams were unloaded, and cement mixers and a team of construction workers arrived. They built a concrete bunker with windows. Seriously, a real concrete bunker. No log cabin or anything like that, but a block of concrete.",
+      "en_cf_keyword": "concrete bunker",
+      "it_cf_page_num": "30",
+      "it_cf_text": "Presto questo parco giochi venne chiuso. Ci dissero che volevano coprirlo in modo che noi ci potessimo giocare anche quando era brutto tempo. Vennero scaricate travi di ferro. Arrivarono le macchine betoniere e una squadra di operai edili. Costruirono un bunker di cemento con le finestre. Sul serio: un vero e proprio silo di cemento. Non era un capannone o qualcosa del genere, ma un blocco di cemento.",
+      "it_cf_keyword": "silo di cemento"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [13.471013700551683, 52.42051902784944]
+    },
+    "type": "Feature",
+    "properties": {
+      "postid": "511",
+      "title": "30 Als es immer doller",
+      "url": "http://readingbahnhofzoo.local/30-als-es-immer-doller/",
+      "lat": "52.42051902784944",
+      "lng": "13.471013700551683",
+      "de_cf_page_num": "30",
+      "de_cf_text": "Als es immer doller wurde mit den Streichen bei uns, haben sie einen sogenannten Abenteuerspielplatz gebaut. Ich weiß nicht, was die Leute, die so was planen, unter Abenteuer verstehen. Aber wahrscheinlich heißen diese Dinger ja auch nicht so, weil Kinder da wirklich Abenteuerliches machen dürfen, sondern, weil die Erwachsenen glauben sollen, ihre Kinder könnten da ganz tolle Sachen erleben.",
+      "de_cf_keyword": "Abenteuerspielplatz",
+      "en_cf_page_num": "27",
+      "en_cf_text": "As our pranks got worse and worse, they built something they called an “adventure playground” for us. I don't know what they really meant by “adventure.” But it had nothing to do with actual adventure. I guess it was there for the parents, so that they would think their kids were having fun.",
+      "en_cf_keyword": "adventure playground",
+      "it_cf_page_num": "29",
+      "it_cf_text": "Quando gli scherzi da noi diventarono sempre più tremendi, costruirono il cosiddetto parco delle avventure. Non so che cosa intendano per avventura quelli che fanno i progetti. Ma forse queste cose che vengono costruite non si chiamano così perché i bambini lì possano veramente avere delle avventure ma perché gli adulti possano pensare che lì i loro bambini vivano cose fantastiche.",
+      "it_cf_keyword": "parco delle avventure"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [13.475429079073185, 52.42298634023297]
+    },
+    "type": "Feature",
+    "properties": {
+      "postid": "505",
+      "title": "30 Neben dem Reisebüro",
+      "url": "http://readingbahnhofzoo.local/30-neben-dem-reiseburo/",
+      "lat": "52.42298634023297",
+      "lng": "13.475429079073185",
+      "de_cf_page_num": "30",
+      "de_cf_text": "Neben dem Reisebüro war die »Bank für Handel und Industrie«. Damals haben wir uns noch nicht gewundert, was eine Bank für Handel und Industrie ausgerechnet in der Gropiusstadt macht, wo doch Menschen wohnen, die allenfalls von Handel und Industrie ihren Lohn bekommen.",
+      "de_cf_keyword": "Bank für Handel und Industrie",
+      "en_cf_page_num": "27",
+      "en_cf_text": "Next to the travel agency was the Bank for Commerce and Industry. Back then, we didn't think it was weird for there to be a bank for commerce and industry in Gropiusstadt, of all places (where everyone earned their paltry wages by working for industrial and commercial establishments).",
+      "en_cf_keyword": "Bank for Commerce and Industry",
+      "it_cf_page_num": "29",
+      "it_cf_text": "Accanto all’agenzia di viaggi c’era la «Banca dell’industria e del commercio». Allora ancora non ci stupivamo del ruolo che svolge di proposito una banca dell’industria e del commercio a Gropiusstadt, dove vivono persone che appunto ricevono il loro salario dal commercio e dall’industria.",
+      "it_cf_keyword": "Banca dell’industria e del commercio"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [13.47520758424325, 52.422934111749925]
+    },
+    "type": "Feature",
+    "properties": {
+      "postid": "502",
+      "title": "30 Im Ladenzentrum gab es",
+      "url": "http://readingbahnhofzoo.local/30-im-ladenzentrum-gab-es/",
+      "lat": "52.422934111749925",
+      "lng": "13.47520758424325",
+      "de_cf_page_num": "30",
+      "de_cf_text": "Im Ladenzentrum gab es auch ein Reisebüro, da haben wir uns oft die Nasen an der Scheibe plattgedrückt, bis wir verscheucht wurden. Im Schaufenster standen herrliche Bilder mit Palmen, Strand, Negern und wilden Tieren. Dazwischen hing ein Flugzeugmodell. Und wir haben rumgesponnen, wir säßen in dem Flugzeug und flögen an diesen Strand da und kletterten auf die Palmen, von denen aus Nashörner und Löwen zu sehen waren.",
+      "de_cf_keyword": "Reisebüro",
+      "en_cf_page_num": "27",
+      "en_cf_text": "There was also a travel agency in the shopping center, where we liked to stand and press our noses against the window until we were shooed away. They had these fantastic pictures in the shop windows showing palm trees, beaches, native people, and wild animals. In the middle of it all hung a model airliner from the ceiling. We all liked to pretend that we were sitting in that plane on our way to that beach, climbing palm trees to watch rhinos and lions.",
+      "en_cf_keyword": "travel agency",
+      "it_cf_page_num": "28",
+      "it_cf_text": "Nel centro commerciale c’era anche un’agenzia di viaggi; lì molto spesso abbiamo incollato i nostri nasi alla vetrina fino a che non ci cacciavano via. Nella vetrina c'erano delle foto meravigliose con palme, spiagge, negri o animali selvaggi. In mezzo era appeso un modellino di aereo. E noi fantasticavamo che stavamo in quell’aeroplano e andavamo in quella spiaggia e ci arrampicavamo sulle palme dalle quali si potevano vedere i rinoceronti e i leoni.",
+      "it_cf_keyword": "agenzia di viaggi"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [13.476784627440063, 52.422840460523226]
+    },
+    "type": "Feature",
+    "properties": {
+      "postid": "496",
+      "title": "29 Das Einkaufszentrum",
+      "url": "http://readingbahnhofzoo.local/29-das-einkaufszentrum/",
+      "lat": "52.422840460523226",
+      "lng": "13.476784627440063",
+      "de_cf_page_num": "29",
+      "de_cf_text": "Das Einkaufszentrum, das unserem Haus gegenüber lag, war für uns auch mehr oder weniger verbotenes Viertel. Da war ein ganz wilder Hauswart, der uns immer scheuchte. Am wildesten war er, wenn ich mit meinem Hund in die Nähe kam. Er sagte, wir machten den ganzen Dreck im Einkaufszentrum.",
+      "de_cf_keyword": "Einkaufszentrum",
+      "en_cf_page_num": "26",
+      "en_cf_text": "There was a shopping center across from our apartment house, which was also more or less off-limits for us. It was guarded by a fanatical caretaker, who chased us off whenever he saw us. He went really nuts whenever I came remotely close by with Ajax. He said that we were the ones who trashed the place and brought all the dirt into the shopping center.",
+      "en_cf_keyword": "shopping center",
+      "it_cf_page_num": "30",
+      "it_cf_text": "Pure il centro commerciale, che stava proprio davanti a casa nostra, era per noi una zona più o meno proibita. Lì c’era un custode assolutamente truce che ci cacciava sempre. Diventava orrendo quando arrivavo lì nelle vicinanze col mio cane. Diceva che noi facevamo tutta quella zozzeria nel centro commerciale.",
+      "it_cf_keyword": "centro commerciale"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [13.4696994014694, 52.4256315143651]
+    },
+    "type": "Feature",
+    "properties": {
+      "postid": "490",
+      "title": "28 Ich fand heraus, wie",
+      "url": "http://readingbahnhofzoo.local/28-ich-fand-heraus-wie/",
+      "lat": "52.4256315143651",
+      "lng": "13.4696994014694",
+      "de_cf_page_num": "28",
+      "de_cf_text": "Ich fand heraus, wie man durch das Gitter kam. Mit dem Kopf zuerst. Es war richtig trickreich, wie man den Kopf drehen mußte, um durchzukommen. Den Körper quetschten wir dann irgendwie durch. Nur die Dicken konnten nicht mit. Ich habe uns so den Weg in ein richtiges Fahrstuhl-Paradies geöffnet. In ein Haus mit 32 Stockwerken und unheimlich raffinierten Fahrstühlen.",
+      "de_cf_keyword": "ein Haus mit 32 Stockwerken",
+      "en_cf_page_num": "25",
+      "en_cf_text": "It was blocked by a gate, but I figured out how to get through: You needed to go headfirst, and it was a real puzzle to figure out how to turn your head to squeeze past, but somehow we did it. (The skinny kids, at least.) Once we'd made our way through, we found ourselves in the midst of a veritable elevator paradise: a high-rise building with thirty-two floors and unbelievably sophisticated elevators.",
+      "en_cf_keyword": "building with thirty-two floors",
+      "it_cf_page_num": "26",
+      "it_cf_text": "Io trovai il modo di passare attraverso le sbarre. Per prima cosa con la testa. C'era proprio un trucco su come bisognava girare la testa. Il corpo lo schiacciavamo poi dentro in qualche maniera. Solo quelli grassi non riuscivano a farlo. In questo modo aprii la strada che ci portò in un vero e proprio paradiso degli ascensori. Una casa con trentadue piani e ascensori pazzescamente raffinati.",
+      "it_cf_keyword": "Una casa con trentadue piani"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [13.47002585584609, 52.42763072261871]
+    },
+    "type": "Feature",
+    "properties": {
+      "postid": "484",
+      "title": "25 Im Sommer war die Hitze",
+      "url": "http://readingbahnhofzoo.local/26-es-gab-weder-ein-schwimmbad/",
+      "lat": "52.42763072261871",
+      "lng": "13.47002585584609",
+      "de_cf_page_num": "25",
+      "de_cf_text": "Im Sommer war die Hitze bei uns manchmal unerträglich. Die Hitze wurde regelrecht von Beton, Asphalt und Steinen gespeichert und zurückgestrahlt. Die paar mickrigen Bäume gaben keinen Schatten. Und der Wind wurde von den Hochhäusern abgehalten. Es gab weder ein Schwimmbad noch ein Planschbecken.",
+      "de_cf_keyword": "Schwimmbad",
+      "en_cf_page_num": "23",
+      "en_cf_text": "The heat was unbearable in the summer. The concrete, asphalt, and stones all seemed to soak it up and pour it out again. If there were any trees at all, they were so small that they gave no shade. And the wind was blocked by all the apartment buildings. There was no swimming pool, not even a small plastic kiddie pool.",
+      "en_cf_keyword": "swimming pool",
+      "it_cf_page_num": "24",
+      "it_cf_text": "In estate da noi il caldo era talvolta insopportabile. La calura veniva assorbita a regola d’arte dal cemento, dall’asfalto e dalle pietre, e rifranta fuori. Un paio d’alberi miseri non facevano nessuna ombra. E il vento veniva frenato dai casermoni. Non c’erano né una piscina né una vasca per bambini.",
+      "it_cf_keyword": "piscina"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [13.476062181854441, 52.42246217303684]
+    },
+    "type": "Feature",
+    "properties": {
+      "postid": "466",
+      "title": "17 Es gab auch keinen",
+      "url": "http://readingbahnhofzoo.local/17-in-gropiusstadt/",
+      "lat": "52.42246217303684",
+      "lng": "13.476062181854441",
+      "de_cf_page_num": "17",
+      "de_cf_text": "Es gab auch keinen Anführer bei uns im Dorf. Jeder konnte Vorschläge machen, was gespielt werden sollte. Dann wurde solange rumkrakeelt, bis sich ein Vorschlag durchgesetzt hatte. Es war gar nichts dabei, wenn die Älteren mal den Kleinen nachgaben. Es war eine echte Kinder-Demokratie. In Gropiusstadt, in unserem Block, war ein Junge der Boss. Er war der Stärkste und hatte die schönste Wasserpistole.",
+      "de_cf_keyword": "unserem Block",
+      "en_cf_page_num": "18",
+      "en_cf_text": "We didn't have a leader. Anyone could make suggestions for what kind of game we should play. Then we'd all argue back and forth until someone's suggestion won out. It wasn't even unusual for the older kids to let the younger ones have their way once in a while. We'd created a real democracy amongst us kids. In our section of the Gropiusstadt projects, there was one boy who was definitely in charge. He was the strongest and he also had the best water gun.",
+      "en_cf_keyword": "our section",
+      "it_cf_page_num": "14",
+      "it_cf_text": "Da noi al paese non c’era il capo: ognuno poteva fare proposte sui giochi che si volevano fare. Quindi si litigava fino a che una proposta non passava. Non c’era niente di strano se per una volta i più grandi cedevano nei confronti dei più piccoli. Era una vera democrazia di bambini. A Gropiusstadt, nel nostro stabile, un ragazzino era il capo. Era il più forte ed aveva la più bella pistola ad acqua.",
+      "it_cf_keyword": "nostro stabile"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [9.921202157669343, 53.861961996724666]
+    },
+    "type": "Feature",
+    "properties": {
+      "postid": "460",
+      "title": "15 Nach ein paar Tagen",
+      "url": "http://readingbahnhofzoo.local/15-in-unserem-dorf/",
+      "lat": "53.861961996724666",
+      "lng": "9.921202157669343",
+      "de_cf_page_num": "15",
+      "de_cf_text": "Nach ein paar Tagen traute ich mich mit dem Fahrrad allein auf die Straße, weil da Kinder spielten, die etwas älter waren als ich. In unserem Dorf hatten die Älteren immer auch mit den Kleinen gespielt und auf sie aufgepaßt. Die Kinder vor unserer Wohnung sagten gleich: »Was will die denn hier?« Dann nahmen sie mir das Fahrrad weg.",
+      "de_cf_keyword": "In unserem Dorf",
+      "en_cf_page_num": "16",
+      "en_cf_text": "After a few days, I finally took a chance and rode my bike down the street all by myself because I saw a few of the older kids playing outside. In the town where I grew up, the big kids always looked out for the little kids, and played with them. But right away the kids out front said, “What's she want here?” and took away my bike.",
+      "en_cf_keyword": "town where I grew up",
+      "it_cf_page_num": "12",
+      "it_cf_text": "Dopo un paio di giorni mi fidai ad andare da sola per strada con la bicicletta, dato che ci giocavano dei bambini che erano un po’ più grandi di me. Al paese i più grandi avevano sempre giocato con i piccoli, e ci sorvegliavano anche. I bambini del nostro stabile mi dissero subito: «Cosa vuoi tu qui?». Poi mi presero la bicicletta.",
+      "it_cf_keyword": "Al paese"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [13.4287049136851, 52.4938963798117]
+    },
+    "type": "Feature",
+    "properties": {
+      "postid": "457",
+      "title": "15 Nur in drei Zimmern",
+      "url": "http://readingbahnhofzoo.local/15-so-wohnten-wir/",
+      "lat": "52.49389637981170",
+      "lng": "13.42870491368510",
+      "de_cf_page_num": "15",
+      "de_cf_text": "Nur in drei Zimmern standen ein paar Möbel. Im Kinderzimmer waren zwei Betten und ein alter Küchenschrank mit unseren Spielsachen. Im zweiten Zimmer war ein Bett für meine Eltern, und im größten standen eine alte Couch und ein paar Stühle. So wohnten wir in Berlin-Kreuzberg, am Paul-Lincke-Ufer.",
+      "de_cf_keyword": "Paul-Lincke-Ufer",
+      "en_cf_page_num": "16",
+      "en_cf_text": "Only three rooms had any furniture in them. In the kids' room there were two beds and an old kitchen cabinet for our toys; in the second room was my parents' bed; and in the biggest room we only had an old couch and a couple of chairs. That's how we lived in Berlin-Kreuzberg, on the north bank of the Spree River.",
+      "en_cf_keyword": "Berlin-Kreuzberg",
+      "it_cf_page_num": "12",
+      "it_cf_text": "Soltanto in tre stanze c'erano un paio di mobili. Nella stanza dei bambini c'erano due letti e un vecchio mobile da cucina con i nostri giochi. Nella seconda stanza c’era un letto per i miei genitori e nella stanza più grande un vecchio divano e un paio di sedie. Così vivevamo a Kreuzberg, nella Paul-Lincke-Ufer.",
+      "it_cf_keyword": "Paul-Lincke-Ufer"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [13.481158591275223, 52.39739315517717]
+    },
+    "type": "Feature",
+    "properties": {
+      "postid": "324",
+      "title": "18 Da fuhren wir dann",
+      "url": "http://readingbahnhofzoo.local/18-wir-spielten-auf-den-alten/",
+      "lat": "52.39739315517717",
+      "lng": "13.481158591275223",
+      "de_cf_page_num": "18",
+      "de_cf_text": "Da fuhren wir dann mit unseren Hunden hin. Wir spielten auf den alten Müllkippen in Rudow, die mit Erde zugeschüttet worden waren. Unsere Hunde spielten imifter mit. »Spürhund« war unser Lieblingsspiel. Einer versteckte sich, während sein Hund festgehalten wurde. Dann mußte der Hund ihn suchen.",
+      "de_cf_keyword": "alten Müllkippen",
+      "en_cf_page_num": "19",
+      "en_cf_text": "So that's where we headed with our dogs. We played on the old, earth-covered hills of the garbage dump, and our dogs were always a part of whatever it was we were doing. Our favorite game to play was a version of hide-and-seek that included our dogs. One of us would hide, and somebody else would hold onto that person's dog. Then the animal had to track down and find that person.",
+      "en_cf_keyword": "garbage dump",
+      "it_cf_page_num": "15",
+      "it_cf_text": "Noi ci andavamo con i nostri cani. Giocavamo sui vecchi contenitori dei rifiuti riempiti di terra. Di preferenza giocavamo al «cane da fiuto». Uno si nascondeva mentre il suo cane veniva tenuto fermo. Quindi il cane doveva cercarlo.",
+      "it_cf_keyword": "contenitori dei rifiuti"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [13.461649695482363, 52.42178338415474]
+    },
+    "type": "Feature",
+    "properties": {
+      "postid": "30",
+      "title": "16 Gropiusstadt, das sind",
+      "url": "http://readingbahnhofzoo.local/post-03/",
+      "lat": "52.42178338415474",
+      "lng": "13.461649695482363",
+      "de_cf_page_num": "16",
+      "de_cf_text": "Gropiusstadt, das sind Hochhäuser für 45000 Menschen, dazwischen Rasen und Einkaufszentren. Von weitem sah alles neu und sehr gepflegt aus. Doch wenn man zwischen den Hochhäusern war, stank es überall nach Pisse und Kacke. Das kam von den vielen Hunden und den vielen Kindern, die in Gropiusstadt leben.",
+      "de_cf_keyword": "Gropiusstadt",
+      "en_cf_page_num": "17",
+      "en_cf_text": "Gropiusstadt: the projects. Home to 45,000 people, but mainly just a forest of high-rises, with some patches of green and shopping centers in between. From far away, it looked new and well taken care of. But when you got up close, you realized that the whole place reeked of piss and shit—because of all the dogs and kids that lived there.",
+      "en_cf_keyword": "Gropiusstadt",
+      "it_cf_page_num": "13",
+      "it_cf_text": "Gropiusstadt: casermoni per quarantacinquemila persone, con in mezzo prati e centri commerciali. Da lontano tutto nuovo e ben curato. Ma quando si stava in mezzo ai casermoni si sentiva dappertutto puzza di piscio e di cacca. Veniva da tutti quei cani e bambini che vivevano lì.",
+      "it_cf_keyword": "Gropiusstadt"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [13.496454915113958, 52.41572273857663]
+    },
+    "type": "Feature",
+    "properties": {
+      "postid": "28",
+      "title": "18 Ich fand andere",
+      "url": "http://readingbahnhofzoo.local/post-02/",
+      "lat": "52.41572273857663",
+      "lng": "13.496454915113958",
+      "de_cf_page_num": "18",
+      "de_cf_text": "Ich fand andere Kinder, die auch Hunde hatten. Mit denen verstand ich mich ganz gut. Ich entdeckte, daß außerhalb von Gropiusstadt, in Rudow, noch richtige Reste von Natur waren.",
+      "de_cf_keyword": "Rudow",
+      "en_cf_page_num": "19",
+      "en_cf_text": "I found other kids who also had dogs, and I got along with them pretty well. It turned out that in Rudow—which was a neighborhood just outside of Gropiusstadt—there were still pockets of nature left.",
+      "en_cf_keyword": "Rudow",
+      "it_cf_page_num": "15",
+      "it_cf_text": "Trovai altri bambini che avevano cani. Scoprii che fuori Gropiusstadt, a Rudow, c’erano ancora resti di vera natura.",
+      "it_cf_keyword": "Rudow"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [13.465390401278245, 52.42147990794548]
+    },
+    "type": "Feature",
+    "properties": {
+      "postid": "1",
+      "title": "22 In dieser Zeit",
+      "url": "http://readingbahnhofzoo.local/hello-world/",
+      "lat": "52.42147990794548",
+      "lng": "13.465390401278245",
+      "de_cf_page_num": "22",
+      "de_cf_text": "In dieser Zeit, als ich so acht, neun war, machte in Rudow ein Ponyhof auf. Wir waren zuerst sehr sauer, denn für den Ponyhof wurde so ziemlich das letzte Stück freie Natur, in das wir mit unseren Hunden flüchten konnten, eingezäunt und abgeholzt. Dann verstand ich mich mit den Leuten da aber ganz gut und machte Stallarbeiten und Pferdepflege. Für die Arbeit durfte ich ein paar Viertelstunden in der Woche frei reiten. Das fand ich natürlich wahnsinnig.",
+      "de_cf_keyword": "Ponyhof",
+      "en_cf_page_num": "23",
+      "en_cf_text": "At around this same time, when I was about eight or nine, a riding stable opened up in Rudow. At first, we were really pissed off, because it meant that we were going to lose the last bit of wilderness and nature in the area—the one place where we could escape with our dogs. It was going to be fenced in and cleared of trees. But then I started talking with the owners, and we got along really well. I helped them with cleaning stables and taking care of the horses, and in exchange I was allowed to ride for fifteen minutes or so in down times during the week. I thought that was the best thing that had ever happened to me.",
+      "en_cf_keyword": "riding stable",
+      "it_cf_page_num": "20",
+      "it_cf_text": "A quel tempo a Rudow aprirono un maneggio. All’inizio ero nera per questo, perché per via del maneggio l’ultimo pezzo libero dove noi potevamo rifugiarci con i nostri cani veniva recintato e chiuso da steccati. Poi con la gente del maneggio me la sono intesa abbastanza bene: facevo lavori nella stalla e curavo gli animali. In cambio potevo cavalcare gratis per una mezz'ora alla settimana. Questo lo trovavo naturalmente fantastico.",
+      "it_cf_keyword": "maneggio"
+    }
+  }]
+}

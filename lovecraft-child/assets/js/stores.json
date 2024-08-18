@@ -1,0 +1,182 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+            "geometry": {
+                "type": "Point",
+                "coordinates": [13.465390401278245, 52.42147990794548
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "patisserie",
+                "hours": "10am - 6pm",
+                "description": "In dieser Zeit, als ich so acht, neun war, machte in Rudow ein Ponyhof auf. Wir waren zuerst sehr sauer, denn für den Ponyhof wurde so ziemlich das letzte Stück freie Natur, in das wir mit unseren Hunden flüchten konnten, eingezäunt und abgeholzt. Dann verstand ich mich mit den Leuten da aber ganz gut und machte Stallarbeiten und Pferdepflege. Für die Arbeit durfte ich ein paar Viertelstunden in der Woche frei reiten. Das fand ich natürlich wahnsinnig.",
+                "name": "Ponyhof",
+                "phone": "+44 20 1234 5678",
+                "storeid": "01"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [13.42870491368510, 52.49389637981170
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "patisserie",
+                "hours": "10am - 6pm",
+                "description": "Nur in drei Zimmern standen ein paar Möbel. Im Kinderzimmer waren zwei Betten und ein alter Küchenschrank mit unseren Spielsachen. Im zweiten Zimmer war ein Bett für meine Eltern, und im größten standen eine alte Couch und ein paar Stühle. So wohnten wir in Berlin-Kreuzberg, am Paul-Lincke-Ufer.",
+                "name": "Paul-Lincke-Ufer",
+                "phone": "+44 117 121 2121",
+                "storeid": "02"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.92120215766934, 53.86196199672460
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "patisserie",
+                "hours": "10am - 6pm",
+                "description": "Nach ein paar Tagen traute ich mich mit dem Fahrrad allein auf die Straße, weil da Kinder spielten, die etwas älter waren als ich. In unserem Dorf hatten die Älteren immer auch mit den Kleinen gespielt und auf sie aufgepaßt. Die Kinder vor unserer Wohnung sagten gleich: »Was will die denn hier?« Dann nahmen sie mir das Fahrrad weg.",
+                "name": "Nuetzen",
+                "phone": "+44 1603 123456",
+                "storeid": "03"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [13.46164969548230, 52.42178338415470
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "patisserie",
+                "hours": "10am - 6pm",
+                "description": "Gropiusstadt, das sind Hochhäuser für 45000 Menschen, dazwischen Rasen und Einkaufszentren. Von weitem sah alles neu und sehr gepflegt aus. Doch wenn man zwischen den Hochhäusern war, stank es überall nach Pisse und Kacke. Das kam von den vielen Hunden und den vielen Kindern, die in Gropiusstadt leben.",
+                "name": "Gropiusstadt",
+                "phone": "+44 1202 343434",
+                "storeid": "04"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [13.47606218185440, 52.42246217303680
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "patisserie",
+                "hours": "10am - 6pm",
+                "description": "Es gab auch keinen Anführer bei uns im Dorf. Jeder konnte Vorschläge machen, was gespielt werden sollte. Dann wurde solange rumkrakeelt, bis sich ein Vorschlag durchgesetzt hatte. Es war gar nichts dabei, wenn die Älteren mal den Kleinen nachgaben. Es war eine echte Kinder-Demokratie. In Gropiusstadt, in unserem Block, war ein Junge der Boss. Er war der Stärkste und hatte die schönste Wasserpistole.",
+                "name": "Gottschalk Weg 10",
+                "phone": "+44 151 444 4444",
+                "storeid": "05"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [13.49645491511390, 52.41572273857660
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "patisserie",
+                "hours": "10am - 6pm",
+                "description": "Ich fand andere Kinder, die auch Hunde hatten. Mit denen verstand ich mich ganz gut. Ich entdeckte, daß außerhalb von Gropiusstadt, in Rudow, noch richtige Reste von Natur waren.",
+                "name": "Rudow",
+                "phone": "+44 5555 55555",
+                "storeid": "06"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [13.48115859127520, 52.39739315517710
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "patisserie",
+                "hours": "10am - 6pm",
+                "description": "Da fuhren wir dann mit unseren Hunden hin. Wir spielten auf den alten Müllkippen in Rudow, die mit Erde zugeschüttet worden waren. Unsere Hunde spielten imifter mit. »Spürhund« war unser Lieblingsspiel. Einer versteckte sich, während sein Hund festgehalten wurde. Dann mußte der Hund ihn suchen.",
+                "name": "Alten Müllkippen",
+                "phone": "+44 29 6666 6666",
+                "storeid": "07"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [13.47002585584600, 52.42763072261870
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "cafe",
+                "hours": "8am - 9:30pm",
+                "description": "Im Sommer war die Hitze bei uns manchmal unerträglich. Die Hitze wurde regelrecht von Beton, Asphalt und Steinen gespeichert und zurückgestrahlt. Die paar mickrigen Bäume gaben keinen Schatten. Und der Wind wurde von den Hochhäusern abgehalten. Es gab weder ein Schwimmbad noch ein Planschbecken.",
+                "name": "Schwimmbad",
+                "phone": "+44 7777 777777",
+                "storeid": "08"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [13.47615260214120, 52.42226773456140
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "cafe",
+                "hours": "8am - 9:30pm",
+                "description": "Nur einen Springbrunnen mitten auf unserem Betonplatz. Da planschten und spritzten wir manchmal. War natürlich verboten, und wir wurden auch immer schnell weggejagt.",
+                "name": "Springbrunnen",
+                "phone": "+44 8888 88888",
+                "storeid": "09"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [13.46969940146940, 52.42563151436510
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "cafe",
+                "hours": "8am - 9:30pm",
+                "description": "Ich fand heraus, wie man durch das Gitter kam. Mit dem Kopf zuerst. Es war richtig trickreich, wie man den Kopf drehen mußte, um durchzukommen. Den Körper quetschten wir dann irgendwie durch. Nur die Dicken konnten nicht mit. Ich habe uns so den Weg in ein richtiges Fahrstuhl-Paradies geöffnet. In ein Haus mit 32 Stockwerken und unheimlich raffinierten Fahrstühlen.",
+                "name": "Ideal",
+                "phone": "+44 8888 88888",
+                "storeid": "10"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [13.47678462744000, 52.42284046052320
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "cafe",
+                "hours": "8am - 9:30pm",
+                "description": "Das Einkaufszentrum, das unserem Haus gegenüber lag, war für uns auch mehr oder weniger verbotenes Viertel. Da war ein ganz wilder Hauswart, der uns immer scheuchte. Am wildesten war er, wenn ich mit meinem Hund in die Nähe kam. Er sagte, wir machten den ganzen Dreck im Einkaufszentrum.",
+                "name": "Einkaufszentrum",
+                "phone": "+44 8888 88888",
+                "storeid": "11"
+            }
+        }
+
+    ]
+}
