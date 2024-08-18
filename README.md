@@ -7,3 +7,6 @@ The whole website is built based on an open-source template called Lovecraft (ht
 * The navigation through the quotes list, the upload of the single quotes and the switch between the languages are handled by asynchronous calls
 * Embedded code for SVG animations: CSS for animation, JS for interaction
 * The map page (https://cf-zoostation.net/space/) employes Google Maps API
+## Screenshots
+Nomepage
+(/screenshots/homepage.png)
